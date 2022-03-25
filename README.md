@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name's Josh Kersey from Raleigh, North Carolina. I'm a senior at NCSU studying Math and Computer Science. I'm always hungry to learn new things and build some cool stuff. I enjoy playing video games, am DevOps enthusiastic, and am interested in the development, scalability, and performance behind modern software.
+My name's Josh Kersey, and I'm a senior at NCSU studying Math and Computer Science. I'm always hungry to learn new things and build some cool stuff. I enjoy playing video games, am DevOps enthusiastic, and am interested in the development, scalability, and performance behind modern software.
 
 -   😄 Pronouns: He/him
 -   🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
