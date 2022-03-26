@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name's Josh Kersey from Raleigh, North Carolina. I'm a senior at NCSU studying Math and Computer Science. I'm always hungry to learn new things and build some cool stuff. I enjoy playing video games, am DevOps enthusiastic, and am interested in the development, scalability, and performance behind modern software.
+My name's Josh Kersey, and I'm a senior at NCSU studying Math and Computer Science. I'm always hungry to learn new things and build some cool stuff. I enjoy playing video games, am DevOps enthusiastic, and am interested in the development, scalability, and performance behind modern software.
 
 -   😄 Pronouns: He/him
 -   🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
@@ -8,7 +8,7 @@ My name's Josh Kersey from Raleigh, North Carolina. I'm a senior at NCSU studyin
 
 ---
 
-I'm currently building a full stack app for both web and mobile using the following technologies/frameworks. It's called sortir, and it's aim is to be be a better solution to data analytics and decision making while navigating solo queue.
+I'm currently building a full stack app for both web and mobile using the following technologies/frameworks. It's called sortir, and it's aim is to be be a better solution to data analytics and decision making while navigating League of Legends solo queue. The hope is to eventually offer an easily digestable deep learning model built with Tensorflow to the end user as a means to help them decide whether or not to dodge their current queue lobby.
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
