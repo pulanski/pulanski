@@ -12,7 +12,7 @@ I'm currently building a full stack app for both web and mobile using the follow
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-You can check out the codebase for the project here. [<img src="https://camo.githubusercontent.com/e6827ddacb39b17e677eaffdae6995da1cc09076e4d50f2b816d2758873f438c/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3030303030303f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d464646464646" data-canonical-src="http://img.shields.io/badge/-Github-000000?style=flat&amp;logo=github&amp;logoColor=FFFFFF" style="max-width: 100%;">](https://github.com/pulanski/linkedin-clone)
+You can check out the Nx monorepo where the project is stored here. [<img src="https://camo.githubusercontent.com/e6827ddacb39b17e677eaffdae6995da1cc09076e4d50f2b816d2758873f438c/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3030303030303f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d464646464646" data-canonical-src="http://img.shields.io/badge/-Github-000000?style=flat&amp;logo=github&amp;logoColor=FFFFFF" style="max-width: 100%;">](https://github.com/pulanski/linkedin-clone)
 
 Feel free to make a pull request if you're interested in contributing.
 
@@ -57,6 +57,8 @@ See the [open issues](https://github.com/pulanski/linkedin-clone/issues) for a f
 
 You can find/get in touch with me on these accounts!
 
-[![](https://camo.githubusercontent.com/e6827ddacb39b17e677eaffdae6995da1cc09076e4d50f2b816d2758873f438c/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3030303030303f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d464646464646)](https://github.com/pulanski/) ![](https://dcbadge.vercel.app/api/shield/191731384845336576?style=flat) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18581537/josh-kersey?tab=profile)
+[![](https://camo.githubusercontent.com/e6827ddacb39b17e677eaffdae6995da1cc09076e4d50f2b816d2758873f438c/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3030303030303f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d464646464646)](https://github.com/pulanski/) ![<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="24">](https://dcbadge.vercel.app/api/shield/191731384845336576?style=flat) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18581537/josh-kersey?tab=profile)
 
 ---
+
+> Written with [StackEdit](https://stackedit.io/).
