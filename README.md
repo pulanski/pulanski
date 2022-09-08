@@ -1,10 +1,13 @@
-### Hi there 👋
+Josh Kersey
 
-My name's Josh Kersey from Raleigh, North Carolina. I'm a senior at NCSU studying Math and Computer Science. I'm always hungry to learn new things and build some cool stuff. I enjoy playing video games, am DevOps enthusiastic, and am interested in the development, scalability, and performance behind modern software.
+math/cs
 
-- 😄 Pronouns: He/him
-- 🌱 I’m currently learning [![Angular][angular-badge]][angular-url], [![TailwindCSS][tailwind-badge]][tailwind-url], [![RxJS][rxjs-badge]][rxjs-url], [![NestJS][nestjs-badge]][nestjs-url], and [![PostgreSQL][postgres-badge]][postgres-url]
-- 📚 I want to learn [![Deno][deno-badge]][deno-url] and [![Terraform][terraform-badge]][terraform-url]
+enjoy using 
+ 
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/), [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react logo" width="24">](https://reactjs.org/), [<img src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png" alt="graphql logo" width="24">](https://graphql.org/), [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="24">](https://www.rust-lang.org/), [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="24">](https://www.docker.com/), [<img src="https://blog.bazel.build/images/bazel-icon.svg" alt="bazel logo" width="24">](https://bazel.build/)
+
+
+current interests include compiler design
 
 <!-- ---
 
@@ -28,6 +31,8 @@ Feel free to make a pull request if you're interested in contributing.
 - Dockerize the application for deployment to either Amazon ECS or Google Cloud Run
 
 See the [open issues](https://github.com/pulanski/linkedin-clone/issues) for a full list of proposed features (and known issues). -->
+
+<!--
 
 ---
 
