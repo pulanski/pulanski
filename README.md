@@ -6,8 +6,7 @@ enjoy using
  
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/), [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react logo" width="24">](https://reactjs.org/), [<img src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png" alt="graphql logo" width="24">](https://graphql.org/), [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="24">](https://www.rust-lang.org/), [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="24">](https://www.docker.com/), [<img src="https://blog.bazel.build/images/bazel-icon.svg" alt="bazel logo" width="24">](https://bazel.build/), [<img src="https://github.com/JuliaLang/julia-logo-graphics/raw/master/images/julia-logo-color.png" alt="julia logo" width="24">](https://julialang.org/), [<img src="https://avatars.githubusercontent.com/u/6471485?s=200&v=4" alt="neovim logo" width="24">](https://neovim.io/)
 
-
-current interests include compiler engineering, devops and cloud architecture, and system design.
+current interests include compilers, databases, and other cool things.
 
 <!-- ---
 
